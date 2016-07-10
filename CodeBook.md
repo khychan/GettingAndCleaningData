@@ -37,6 +37,7 @@ The 'run_analysis.R' script takes the following steps to transform the Raw Data 
 2. Reads in datasets for A) activity labels; B) descriptions of variables collected from the sensor; C) observations for each variable reading (split into training and test subjects); D) which subject the observation was taken from; E) which activity the observation refers to.  
 
   **Mapping to tables in R**
+  
   'activity_labels.txt': activityLabels 
   
   'features.txt': features
